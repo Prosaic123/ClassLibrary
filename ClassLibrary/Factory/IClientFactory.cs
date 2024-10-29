@@ -4,8 +4,8 @@ namespace ClassLibrary.Factory
 {
     public interface IClientFactory
     {
-        IClient Creat(ClientOptions options);
+        IClient Creat(ClientOptions options, ClientType clientType);
 
-        IClient Get(string type);
+        IClient Get(string ipAddress);
     }
 }
