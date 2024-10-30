@@ -2,6 +2,6 @@ namespace ClassLibrary.Client
 {
     public interface IClient
     {
-        Task ConnectAsync();
+        Task ConnectAsync(ClientOptions options, CancellationToken cancellationToken);
     }
 }

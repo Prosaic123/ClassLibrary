@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BNCwondlGco=",
+  "dgSpecHash": "wYcjR0LZdXY=",
   "success": true,
   "projectFilePath": "D:\\GitHub\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\1463158503\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
